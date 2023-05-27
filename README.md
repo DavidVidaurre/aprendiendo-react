@@ -10,11 +10,13 @@ Curso para aprender **React** basado en proyectos.
 ## Videos de las clases
 - 01: [Introducción a React](https://www.youtube.com/watch?v=7iobxzd_2wY)
 - 02: [React Hooks: useState y useEffect](https://www.youtube.com/watch?v=qkzcjwnueLA&feature=youtu.be)
+- 03: [Prueba técnica con lo aprendido](https://www.youtube.com/watch?v=XYpadB4VadY&feature=youtu.be)
 ## Proyectos
 
 - 01: [Twitter Follow Card](projects/01-twitter-follow-card/)
 - 02: [Tic Tac Toe](projects/02-tic-tac-toe/)
 - 03: [Mouse Follower](projects/03-mouse-follower/)
+- 04: [Prueba técnica con Promesas, fetching y testing E2E](projects/04-react-prueba-tecnica)
 
 
 Todos los derechos reservados © Midudev
